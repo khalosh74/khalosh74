@@ -1,46 +1,31 @@
-## Hi there 👋
-# Hi, I’m Khaled Alraas
+# Khaled Alraas
 
-I’m an MSc student in **AI for Health at Stockholm University**, with a background in computer science, software development, and applied machine learning. I’m currently looking for graduate, junior, internship, or working-student opportunities where I can contribute across **software engineering, data, and AI/ML systems**.
+**Software development · Applied machine learning · AI for Health**  
+Stockholm, Sweden · Open to paid junior, graduate, trainee, and research-engineering roles across Europe
 
-I’m especially interested in roles involving **Python, machine learning, NLP, LLMs, data workflows, model evaluation, and production-minded engineering**. I enjoy building things that are not only technically interesting, but also useful, testable, and connected to real problems.
+I'm a software developer with a BSc in Computer and Systems Sciences and graduate-level studies in AI for Health at Stockholm University. My master's thesis is complete; one examination remains before the degree can be awarded.
 
-## What I bring
+I work as a research assistant with MRI data and Python-based machine learning analysis. I've also supported students as a programming teaching assistant. I like problems where careful evaluation and maintainable code matter as much as getting a model to run.
 
-- Strong foundation in **Python, Java, C/C++, SQL, Git, Linux, Docker**
-- Hands-on experience with **PyTorch, TensorFlow, scikit-learn, Hugging Face, LangChain, RAG pipelines, Pandas, NumPy**
-- Academic and project experience in **machine learning, NLP, generative AI, model evaluation, and applied AI workflows**
-- Teaching Assistant experience in programming, which strengthened my communication, debugging, mentoring, and collaboration skills
-- Fluent in **English and Swedish**, native in **Arabic**
-- Based in **Stockholm, Sweden** and open to opportunities in Sweden, Germany, and remote/EU-based teams
+## Selected work
 
-## Selected projects
+| Project | What to look at |
+| --- | --- |
+| **[fMRI decoding — master's thesis](https://github.com/khalosh74/Thesis_ML)** | Reproducible Python ML workflows, cross-session evaluation, dataset validation, tests, and release controls. Start with the README and the synthetic-data demonstration. |
+| **[Diabetes ML API](https://github.com/khalosh74/diabetes-triage-ml)** | A demonstration ML service with FastAPI, train/validation/test separation, Docker, API tests, and GitHub Actions. Not a clinically validated tool. |
+| **[SOAPGemma — collaborative project](https://github.com/khalosh74/SOAPGemma)** | Medical dialogue-to-SOAP-note generation. My contributions include inference and prediction workflows and evaluation notebooks; the repository is a fork of a collaborative project. |
+| **[AgentClinic — collaborative extension](https://github.com/khalosh74/AgentClinic)** | My contributions include integrating SOAP-note generation into an existing clinical-agent simulation. The underlying AgentClinic framework is upstream work. |
 
-### SOAPGemma
-Fine-tuning and evaluation project focused on generating structured medical SOAP notes from synthetic doctor-patient dialogue data. The workflow includes data processing, training, inference, and evaluation using metrics such as ROUGE, BERTScore, and BLEU.
+## Tools and interests
 
-### AgentClinic
-A multimodal, agent-based benchmark and toolkit for simulating clinical workflows such as dialogue, lab interpretation, diagnosis, and SOAP-note generation. The project explores how LLMs perform in structured clinical reasoning settings.
+**Primary:** Python, scikit-learn, PyTorch, data processing, model evaluation, Git, automated testing  
+**Also:** Java, SQL, Linux, Docker, APIs, LLM applications, and AI-assisted development workflows
 
-## What I’m looking for
-
-I’m looking for a team where I can learn fast, take ownership, and grow into a strong applied AI/software engineer. I’m especially motivated by environments that value clear thinking, collaboration, careful engineering, and practical impact.
+I'm especially interested in research engineering, junior AI/ML engineering, and software roles where I can keep improving as a hands-on developer.
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/khaled-alraas](https://linkedin.com/in/khaled-alraas)
-- Email: [alrassk@gmail.com](mailto:alrassk@gmail.com)
-<!--
-**khalosh74/khalosh74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [LinkedIn](https://www.linkedin.com/in/khaled-alraas/)
+- [Email](mailto:alrassk@gmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Swedish and English (fluent); Arabic (native).
